@@ -76,6 +76,7 @@ Make sure you have the following installed:
 Akshit Thakur
 GitHub: https://github.com/Akshit7-code
 
+---
 
 ### 🛠️ Installation
 
@@ -84,15 +85,12 @@ GitHub: https://github.com/Akshit7-code
 git clone https://github.com/Akshit7-code/E-Commerce_backend.git
 
 #### 2️⃣ Navigate to the project directory
-```bash
 cd E-Commerce_backend
 
 #### 3️⃣ Install dependencies
-```bash
 npm install
 
 #### 4️⃣ Create .env file
-```bash
 PORT=5000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
