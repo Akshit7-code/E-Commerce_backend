@@ -93,7 +93,7 @@ JWT_SECRET=your_jwt_secret
 CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
-
+```
 ---
 
 ### 👨‍💻 Author
