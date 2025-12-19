@@ -71,6 +71,12 @@ Make sure you have the following installed:
 
 ---
 
+### 👨‍💻 Author
+
+Akshit Thakur
+GitHub: https://github.com/Akshit7-code
+
+
 ### 🛠️ Installation
 
 #### 1️⃣ Clone the repository
@@ -93,10 +99,3 @@ JWT_SECRET=your_jwt_secret
 CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
-```
----
-
-### 👨‍💻 Author
-
-Akshit Thakur
-GitHub: https://github.com/Akshit7-code
